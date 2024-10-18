@@ -8,13 +8,16 @@ Para executar o script, use o seguinte formato:
 
 ```bash
 ./calculadora.sh [opção] número1 número2
+
 Opções
 -h: Exibe a ajuda com a lista de comandos disponíveis.
 -m: Realiza multiplicação.
 -d: Realiza divisão.
 -s: Realiza subtração.
 -a: Realiza adição.
+```
 Exemplos de uso
+```bash
 Multiplicação: ./calculadora.sh -m 5 3
 Divisão: ./calculadora.sh -d 10 2
 Subtração: ./calculadora.sh -s 9 4
