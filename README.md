@@ -19,6 +19,7 @@ Multiplicação: ./calculadora.sh -m 5 3
 Divisão: ./calculadora.sh -d 10 2
 Subtração: ./calculadora.sh -s 9 4
 Adição: ./calculadora.sh -a 7 3
+```
 Requisitos
 Este script foi desenvolvido para rodar em sistemas que suportam bash.
 
